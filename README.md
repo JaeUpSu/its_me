@@ -21,7 +21,7 @@
  - [ ]	MVP , MVVM 등의 디자인 패턴 적용 후 개발 
  - [ ]	데스크탑 App 개발
  - [ ]	Webpack / Next JS 활용한 SSR 개발 
- - [ ]	NodeJs / TypeScript	 / Redux 사용
+ - [ ]	NodeJs / TypeScript / Redux 사용
  - [ ]	AWS / Azure / GCP 사용 
  - [ ]	Docker , Nginx 사용
    
@@ -30,9 +30,9 @@
  - [ ]	Classic ASP / MS-SQL / JS , JQuery
  - [ ]	REST API 사용하여 서비스 개발 
  - [ ]	검색 / 분석엔진 개발 
+ - [ ]  Mongo DB 사옹
  - [ ]	실시간 대용량 트래픽 처리 시스템 개발
  - [ ]	SalesForce 사용 
-
 
 8. 
  - [ ]	클라우드 환경 서비스 개발 & 사용
